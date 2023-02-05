@@ -1,0 +1,14 @@
+{
+  "name": "sde-project",
+  "version": "1.0.0",
+  "description": "Blog content generator",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
